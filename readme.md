@@ -6,6 +6,10 @@
 
 课程详情请以研究生院网站与培养计划为准，本文仅提供参考，授课细节与考试细节变动请以授课老师为准，请酌情参考。
 
+# Thanks
+
+特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki) ， [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty) 的更新和支持！
+
 # 课程说明
 
 ## 公共必修课
@@ -167,4 +171,9 @@
 更新摘要：
 
 2020-08-26 初始化readme，上传基本参考文件。后续补充会在wiki中给出。
+
 2022-07-10 更新21级的考试情况
+
+2023-04-11 更新23级的考试情况
+
+2023-04-20 更新Thanks
