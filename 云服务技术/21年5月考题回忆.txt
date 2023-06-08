@@ -1,0 +1,18 @@
+单选 2*13=26
+很细很杂
+
+简答 4*6 24
+1. 逻辑地址，物理地址，机器地址
+2. Kubernetes 的步骤
+3. HDFS 与 Swift 差异
+4. Q 协议
+5. Master-salve 结构
+6. 影响移动云计算应用的因素
+
+分析 6 题 50
+虚拟机迁移
+Swift
+六元 FatTree
+Yarn
+BigTable
+列调度
