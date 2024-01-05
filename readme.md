@@ -6,6 +6,10 @@
 
 课程详情请以研究生院网站与培养计划为准，本文仅提供参考，授课细节与考试细节变动请以授课老师为准，请酌情参考。
 
+**大家考试后如果想要上传本年考试内容，可以提交issue或pull_request,我们看到后会合并到仓库中，添加thanks，欢迎大家贡献补充！如有问题请提交issue。**
+
+**非常感谢大家的支持**
+
 # Thanks
 
 特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio) 的更新和支持！
@@ -177,3 +181,7 @@
 2023-04-11 更新23级的考试情况
 
 2023-04-20 更新Thanks
+
+2023-07 更新考试材料补充
+
+2024-01-05 更新readme，欢迎大家提交分享
