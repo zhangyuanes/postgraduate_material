@@ -1,6 +1,6 @@
 # Attention
 
-写在前面：每次考试时候从师兄师姐询问很麻烦他们（当然很感激他们的慷慨和细心），所以维护了一个19学年软件课程情况。
+写在前面：每次考试时候从师兄师姐询问很麻烦他们（当然很感激他们的慷慨和细心），所以维护了一个SCUT软件学院硕士课程情况。
 
 每门课程说明其修课学期，考核方式与一些考试参考材料与参考书，**不提供课件**(尊重老师成果而不公开分享)。
 
@@ -12,7 +12,7 @@
 
 # Thanks
 
-特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio) 的更新和支持！
+特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) 的更新和支持！
 
 # 课程说明
 
@@ -172,16 +172,18 @@
 
 注：公共选修课一般为开卷考试，此处不收录。
 
-更新摘要：
+# 更新摘要
 
 2020-08-26 初始化readme，上传基本参考文件。后续补充会在wiki中给出。
 
 2022-07-10 更新21级的考试情况
 
-2023-04-11 更新23级的考试情况
+2023-04-11 更新22级的考试情况
 
 2023-04-20 更新Thanks
 
-2023-07 更新考试材料补充
+2023-07-14 补充22级的考试材料
 
 2024-01-05 更新readme，欢迎大家提交分享
+
+2024-01-14 更新23级上半学期的考试情况
