@@ -12,7 +12,7 @@
 
 # Thanks
 
-特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) 的更新和支持！
+特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) , [ChenXinXuTUCS](https://github.com/ChenXinXuTUSC)的更新和支持！
 
 # 课程说明
 
@@ -187,3 +187,5 @@
 2024-01-05 更新readme，欢迎大家提交分享
 
 2024-01-14 更新23级上半学期的考试情况
+
+2024-06-22 更新24级云服务考试情况 & 更新readme 感谢名单
