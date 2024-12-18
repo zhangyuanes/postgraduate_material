@@ -12,7 +12,7 @@
 
 # Thanks
 
-特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) , [ChenXinXuTUCS](https://github.com/ChenXinXuTUSC)的更新和支持！
+特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) , [ChenXinXuTUCS](https://github.com/ChenXinXuTUSC)，[q-wind](https://github.com/q-wind), [SCUT-King](https://github.com/SCUT-King)的更新和支持！感谢你们的PR，祝考试顺利，生活顺意！
 
 # 课程说明
 
