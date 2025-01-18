@@ -1,18 +1,22 @@
 # Attention
 
-写在前面：每次考试时候从师兄师姐询问很麻烦他们（当然很感激他们的慷慨和细心），所以维护了一个SCUT软件学院硕士课程情况。
+写在前面：每次考试时候从师兄师姐处询问很麻烦他们（当然很感激他们的慷慨和细心），所以维护了一个SCUT软件学院硕士课程情况。
 
 每门课程说明其修课学期，考核方式与一些考试参考材料与参考书，**不提供课件**(尊重老师成果而不公开分享)。
 
 课程详情请以研究生院网站与培养计划为准，本文仅提供参考，授课细节与考试细节变动请以授课老师为准，请酌情参考。
 
-**大家考试后如果想要上传本年考试内容，可以提交issue或pull_request,我们看到后会合并到仓库中，添加thanks，欢迎大家贡献补充！如有问题请提交issue。**
+**大家考试后如果想要上传本年考试内容，可以提交issue或pull_request,我们看到后会合并到仓库中，添加thanks并送上一份小礼物，欢迎大家贡献补充！如有问题请提交issue。**
 
 **非常感谢大家的支持**
 
 # Thanks
 
-特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) , [ChenXinXuTUCS](https://github.com/ChenXinXuTUSC)，[q-wind](https://github.com/q-wind), [SCUT-King](https://github.com/SCUT-King)的更新和支持！感谢你们的PR，祝考试顺利，生活顺意！
+本项目从个人整理的资料收集出发，从20年初始化到如今25年，一直保持更新和补充，目前许多同学自发回忆和PR，非常感谢大家的理解和支持！祝大家都能考试无忧，毕业顺利，万事如意！
+
+凡提交PR合并的小伙伴（包括之前提交）可联系我（q：1787948156，v：zy20151951，备注仓库名称即可）获得一份小礼物，感谢你的一路相伴！
+
+特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) , [ChenXinXuTUCS](https://github.com/ChenXinXuTUSC)，[q-wind](https://github.com/q-wind), [SCUT-King](https://github.com/SCUT-King)，[KuiH](https://github.com/KuiH)的更新和支持！感谢你们的PR，祝考试顺利，生活顺意！
 
 # 课程说明
 
@@ -187,5 +191,11 @@
 2024-01-05 更新readme，欢迎大家提交分享
 
 2024-01-14 更新23级上半学期的考试情况
+
+2025-01-14 更新24年若干考试情况（见pr） & 更新 Thanks & 更新 readme
+
+# 广告位（招租）（FREE）
+
+有需要挂接信息可提交PR，可帮挂信息
 
 2024-06-22 更新24级云服务考试情况 & 更新readme 感谢名单
