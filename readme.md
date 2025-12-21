@@ -16,7 +16,7 @@
 
 凡提交PR合并的小伙伴（包括之前提交）可联系我（q：1787948156，v：zy20151951，备注仓库名称即可）获得一份小礼物，感谢你的一路相伴！
 
-特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) , [ChenXinXuTUCS](https://github.com/ChenXinXuTUSC)，[q-wind](https://github.com/q-wind), [SCUT-King](https://github.com/SCUT-King)，[KuiH](https://github.com/KuiH)的更新和支持！感谢你们的PR，祝考试顺利，生活顺意！
+特别感谢 [Aoi-hosizora](https://github.com/Aoi-hosizora) , [arrakakki](https://github.com/arrakakki), [zkm98](https://github.com/zkm98),  [dai-pei](https://github.com/dai-pei), [Alphaluo-Jonty](https://github.com/Alphaluo-Jonty), [Rememorio](https://github.com/Rememorio), [turbo2002](https://github.com/turbo2002) , [ChenXinXuTUCS](https://github.com/ChenXinXuTUSC)，[q-wind](https://github.com/q-wind), [SCUT-King](https://github.com/SCUT-King)，[KuiH](https://github.com/KuiH)，[RoyTrue](https://github.com/RoyTrue), [ziiiiiiiiyan](https://github.com/ziiiiiiiiyan)！愿你学业进步！的更新和支持！感谢你们的PR，祝考试顺利，生活顺意！
 
 # 其他优秀笔记/资料仓库（如需追加可提交PR）
 
@@ -200,6 +200,8 @@
 2024-06-22 更新24级云服务考试情况 & 更新readme 感谢名单
 
 2025-01-14 更新24年若干考试情况（见pr） & 更新 Thanks & 更新 readme
+
+2025-12-21 更新25年设计模式考试 & 更新 Thanks & 更新 readme
 
 # 广告位（招租）（FREE）
 
